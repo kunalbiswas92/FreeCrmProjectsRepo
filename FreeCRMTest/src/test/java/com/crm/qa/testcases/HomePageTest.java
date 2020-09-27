@@ -17,6 +17,7 @@ public class HomePageTest extends TestBase{
 	HomePageTest()
 	{
 		super();
+		System.out.println("testing git ");
 	}
 	@BeforeMethod
 	public void setup() throws InterruptedException

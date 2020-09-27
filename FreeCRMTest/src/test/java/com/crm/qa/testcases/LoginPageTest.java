@@ -15,6 +15,7 @@ public class LoginPageTest extends TestBase
 	public LoginPageTest()
 	{
 		super();
+		System.out.println("testing git");
 	}
 	
 	@BeforeMethod
