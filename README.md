@@ -1,0 +1,2 @@
+# FreeCrmProjectsRepo
+FreeCRM framework content
